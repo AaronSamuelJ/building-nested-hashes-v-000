@@ -1,3 +1,3 @@
 def bonus(hash)
-  
+
 end
